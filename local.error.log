@@ -1,0 +1,7 @@
+[Sat Nov 17 12:01:40.370006 2018] [authz_core:error] [pid 2316:tid 2008] [client 127.0.0.1:51192] AH01630: client denied by server configuration: D:/sub_task/promon/public/
+[Sat Nov 17 12:01:45.264910 2018] [authz_core:error] [pid 2316:tid 2008] [client 127.0.0.1:51192] AH01630: client denied by server configuration: D:/sub_task/promon/public/
+[Sat Nov 17 12:03:12.208662 2018] [authz_core:error] [pid 2316:tid 2008] [client 127.0.0.1:51657] AH01630: client denied by server configuration: D:/sub_task/promon/public/
+[Sat Nov 17 12:03:12.889840 2018] [authz_core:error] [pid 2316:tid 2008] [client 127.0.0.1:51657] AH01630: client denied by server configuration: D:/sub_task/promon/public/
+[Sat Nov 17 12:03:13.606922 2018] [authz_core:error] [pid 2316:tid 2008] [client 127.0.0.1:51657] AH01630: client denied by server configuration: D:/sub_task/promon/public/
+[Sat Nov 17 12:03:51.243304 2018] [authz_core:error] [pid 2316:tid 2008] [client 127.0.0.1:51849] AH01630: client denied by server configuration: D:/sub_task/promon/public/
+[Sat Nov 17 12:03:52.077071 2018] [authz_core:error] [pid 2316:tid 2008] [client 127.0.0.1:51849] AH01630: client denied by server configuration: D:/sub_task/promon/public/
