@@ -65,5 +65,10 @@ Route::group(['middleware' => 'auth'], function() {
     Route::get('/index_teknisi/{id}','TeknisiController@form');
     Route::post('/index_teknisi/{id}','TeknisiController@save');
 
+    Route::get('/pegawai', 'PegawaiController@index');
+    Route::get('/pegawai/{id}', 'PegawaiController@input');
+    Route::post('/pegawai/{id}', 'PegawaiController@save');
+    Route::get('/deletepegawai/{id}', 'PegawaiController@delete');
+
 	Route::get('/logout','LoginController@logout');
 });

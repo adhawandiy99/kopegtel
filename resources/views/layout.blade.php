@@ -39,6 +39,9 @@
         <ul class="px-nav-dropdown-menu">
           <li class="px-nav-item"><a href="/user"><span class="px-nav-label">User</span></a></li>
         </ul>
+        <ul class="px-nav-dropdown-menu">
+          <li class="px-nav-item"><a href="/pegawai"><span class="px-nav-label">Pegawai</span></a></li>
+        </ul>
       </li>
       @endif
       @if(str_contains(session('auth')->Profile, ['Supervisor', 'Admin']))
